@@ -1,0 +1,25 @@
+/* font-family: "Lobster", sans-serif; */
+/* font-family: "Cabin", sans-serif; */
+.navbar-brand {
+    font-family: "Lobster", sans-serif;
+    color:#ffff;
+}
+li{
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+.fondo-nav {
+    background-color: #373A3C;
+    
+}
+.nav-link, .active a {
+    color:#ffff;
+}
+@media (max-width: 576px) {
+.carousel{
+    display: none;
+}
+}
+.logo-footer {
+    font-size: 37px;
+}
